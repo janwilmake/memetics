@@ -4,6 +4,8 @@ Humans: https://buildinpublicuniversity.com/the-memetic-foundation-of-human-valu
 
 Source: https://llmtext.com/buildinpublicuniversity.com/the-memetic-foundation-of-human-value-a-new-economic-paradigm/
 
+Interview between Jan Wilmake (prompt engineer) and Claude (interpreter)
+
 # What's the key insight here?
 
 Based on the paper, the key insight is that human value is fundamentally memetic - emerging from the exchange, filtering, and amplification of ideas within communities. The paper proposes a framework that reorients economics around this understanding with four core principles:
