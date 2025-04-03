@@ -4,7 +4,7 @@ Humans: https://buildinpublicuniversity.com/the-memetic-foundation-of-human-valu
 
 Source: https://llmtext.com/buildinpublicuniversity.com/the-memetic-foundation-of-human-value-a-new-economic-paradigm/
 
-Interview between Jan Wilmake (prompt engineer) and Claude (interpreter)
+Interview between Jan Wilmake (prompt engineer) and Claude 3.7 (interpreter)
 
 # What's the key insight here?
 
